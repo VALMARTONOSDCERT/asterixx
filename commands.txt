@@ -1,1 +1,1 @@
-41;reinstall;https://avemedo.000webhostapp.com/GIGI;
+41;reinstall;;
